@@ -1,8 +1,13 @@
 .App {
   text-align: center;
 }
+h1 {
+  font-family: 'Orbitron';
+  font-size: 72px;
+  color: whitesmoke;
+}
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +40,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
